@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduardapinheiro
-- 👀 I’m interested in iOS development and Data science
+- 👀 I’m interested in iOS development
 - 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on projects that involve iOS programming and Data Science
+- 💞️ I’m looking to collaborate on projects that involve iOS programming
 - 📫 How to reach me 
 https://www.linkedin.com/in/eduardapinheiro/
 
